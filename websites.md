@@ -9,7 +9,7 @@
 - Videotutorials zu Themen der Elektrotechnik, Mathematik und IT
 <br>
 
-### [Electronics Tutorial](https://www.electronics-tutorials.ws) [Free + Premium]
+### [Electronics Tutorial](https://www.electronics-tutorials.ws) [Free + Premium] [GB]
 - Kostenfreie Inhalte
 - Premiuminhalte
 - Tutorials mit bebilderten Beispielen
