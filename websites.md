@@ -8,3 +8,8 @@
 - Kostenfreie Inhalte
 - Videotutorials zu Themen der Elektrotechnik, Mathematik und IT
 <br>
+
+### [Electronics Tutorial](https://www.electronics-tutorials.ws) [Free + Premium]
+- Kostenfreie Inhalte
+- Premiuminhalte
+- Tutorials mit bebilderten Beispielen
