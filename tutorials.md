@@ -1,11 +1,14 @@
 # Tutorials
 <br>
 
-## Elektronik/Physik (LF1)
+## Elektronik/Physik (LF1/LF5)
 <br>
 
 [Electronics Tutorial - DC Fundamentals](https://youtube.com/playlist?list=PLvOlSehNtuHtVLq2MDPIz82BWMIZcuwhK) [:uk:]
 - Playlist über elektrotechnische Grundlagen
+
+- [Magic of Magnetism & Inductors](https://www.youtube.com/watch?v=ySx84Ca7BFQ&t=10s) [:uk:]
+- Grundlagentutorial Elektromagnetismus
 
 ## Digitaltechnik (LF2)
 <br>
@@ -19,3 +22,5 @@
 [Designing Combinatorial Digital Logic Circuits](https://youtu.be/rfaCFEqk05M) [:uk:]
 - Erstellen von einfachen logischen Schaltungen und herleiten von Funktionsgleichungen
 - Amerikanische Norm der Logikgatter beachten!
+
+
